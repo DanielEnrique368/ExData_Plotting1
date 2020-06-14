@@ -1,5 +1,21 @@
-## Introduction
+# Exploratory Data Analysis Course Project
+Course taught by [COURSERA](https://www.coursera.org/learn/exploratory-data-analysis/)
 
+This repository contains the following files:
+
+* `Plot1.R`, graph code 1 
+     * `Plot1`.png, graphic image 1
+* `Plot2.R`,graph code 2 
+     * `Plot2`.png, graphic image 2
+* `Plot3.R`,graph code 3 
+     * `Plot3`.png, graphic image 3
+* `Plot4.R`,graph code 4 
+     * `Plot4`.png, graphic image 4
+     
+## Observation
+Each code can run independently
+
+## Raw dataset information
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
